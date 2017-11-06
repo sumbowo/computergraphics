@@ -1,2 +1,0 @@
-# computergraphics
-coursework
